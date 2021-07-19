@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Iube-Framework"
-  s.version          = "0.0.14"
+  s.version          = "0.0.15"
   s.summary          = "A short description of Iube-Framework."
   s.homepage         = "https://github.com/mockatech/iube-framework"
   s.author           = { "Theo" => "theolm.mota@gmail.com" }
